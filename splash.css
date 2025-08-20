@@ -146,28 +146,20 @@ h1.title {
 }
 
 /* ===== SPECIAL STYLING FOR DIFFERENT LINK TYPES ===== */
-.general-policies::before {
-    content: '📋';
-    margin-right: 0.8rem;
-    font-size: 1.1rem;
+.general-policies {
+    border-left: 2px solid #447D9B;
 }
 
-.digital-methods::before {
-    content: '💻';
-    margin-right: 0.8rem;
-    font-size: 1.1rem;
+.digital-methods {
+    border-left: 2px solid #FE7743;
 }
 
-.syllabus-link::before {
-    content: '📚';
-    margin-right: 0.8rem;
-    font-size: 1.1rem;
+.syllabus-link {
+    border-left: 2px solid #273F4F;
 }
 
-.info-link::before {
-    content: '👤';
-    margin-right: 0.8rem;
-    font-size: 1.1rem;
+.info-link {
+    border-left: 2px solid #D7D7D7;
 }
 
 /* ===== HOVER EFFECTS ===== */
@@ -293,12 +285,11 @@ footer {
         font-size: 0.9rem;
     }
 
-    .general-policies::before,
-    .digital-methods::before,
-    .syllabus-link::before,
-    .info-link::before {
-        margin-right: 0.6rem;
-        font-size: 1rem;
+    .general-policies,
+    .digital-methods,
+    .syllabus-link,
+    .info-link {
+        border-left-width: 1.5px;
     }
 }
 
