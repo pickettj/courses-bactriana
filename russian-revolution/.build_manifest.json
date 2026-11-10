@@ -1,5 +1,6 @@
 {
  "generated": [
+  ".build_manifest.json",
   "alternative_grading_option.html",
   "course_description.html",
   "device_policy.html",
@@ -11,7 +12,7 @@
   "fonts/pt-sans-narrow-latin-ext-700.woff2",
   "format_materials.html",
   "grading_policies.html",
-  "hist1313_spring2027_syllabus.pdf",
+  "hist1313_russian_revolution_spring2027_syllabus.pdf",
   "index.html",
   "learning_outcomes.html",
   "llm_ai.html",
@@ -27,14 +28,14 @@
   "course_description_russian_revolution.md": "a3352fe2522e7e8d6117f0d3fb2d0a7bf3afd188",
   "syllabus_russian_revolution.md": "50613c46c0de4a272ec8650a0c86c7568cc8cf9e",
   "learning_outcomes.md": "12f3d1e5626954b646c1c4f48a809a85b933076f",
-  "grading_policies.md": "f04ed67a9a3e5f2ae67afeb56d33a92de44989b5",
+  "grading_policies.md": "e23e8d607dd43cfd89d10ac84bce197734474583",
   "device_policy.md": "79983a7bdf8ad174c166f61f32a1b5e2f9dcddd2",
-  "email.md": "0ac5b29267c8644a113bc16872ee6863c8ae9840",
+  "email.md": "3ecf837831dee876cee5fbe1d2e00db36b6b243d",
   "llm_ai.md": "ecf4329a5df32f1d0361f79dd86a807f83741a39",
   "note_taking.md": "c0ed9d6a7d063a6d239d8abb0ec8734ec2adf4c2",
   "office_hours.md": "2818bd136e1b7af06d0bed659cce132fc37b9035",
   "alternative_grading_option.md": "c3618794083dc00cbb1a1a56ef56c28ecb3d3a9f",
   "writing_guidelines.md": "3cb0c9eed5257f9616916c57084bfe2c81781c2f",
-  "hist1313_spring2027.yaml": "a4e6c547989de68c10bed28b5469cf6c7339f3f7"
+  "hist1313_russian_revolution_spring2027.yaml": "a4e6c547989de68c10bed28b5469cf6c7339f3f7"
  }
 }
